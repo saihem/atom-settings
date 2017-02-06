@@ -1,0 +1,17 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 12
+    showInvisibles: true
+  "exception-reporting":
+    userId: "1d8a4759-8995-8e6c-4457-2fa17fc954cd"
+  "git-plus":
+    general:
+      _analyticsUserId: "402448fd-5f04-4bab-862c-d5f5e5294c7c"
+  linter:
+    errorPanelHeight: 59
